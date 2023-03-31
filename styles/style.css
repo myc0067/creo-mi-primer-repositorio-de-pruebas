@@ -1,13 +1,26 @@
-. {
+* {
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
+  }
+body {
+    background-color:aquamarine
 }
-
-.h2-trabajo-practico {
+.titulo-principal {
+    color: fuchsia;
+}
+.trabajo-practico {
     color: blue;
 }
-
-.h3-mi-primer {
-    color: chartreuse;
+.primer-repositorio{
+    color: brown;
+}
+.fundamentos{
+    color: blue;
+}
+.creando-repo{
+    color: blue;
+}
+.ing-sig-comandos { 
+    color: blue;
 }
